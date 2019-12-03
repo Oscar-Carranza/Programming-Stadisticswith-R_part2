@@ -1,2 +1,2 @@
 # Programming-Stadistics-with-R_part2
-Here I have somr of the code I used for my Stadistics project
+Here I have some code about how to use ggplot2
